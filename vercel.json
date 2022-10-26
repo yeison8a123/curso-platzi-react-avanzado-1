@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "petgram-TU_NOMBRE",
+    "name": "petgram-yeison8a123",
     "builds": [
         { "use": "@vercel/static-build", "src": "package.json"}
     ],
